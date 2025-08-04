@@ -1,6 +1,5 @@
 {
   "name": "AI Student Growth Consultant",
   "description": "An AI-powered chatbot that analyzes student's behavioral characteristics and proposes personalized growth solutions and educational technology tools.",
-  "requestFramePermissions": [],
-  "prompt": ""
+  "requestFramePermissions": []
 }
